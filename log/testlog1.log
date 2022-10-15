@@ -1,0 +1,282 @@
+2022-08-26 09:57:37,309 [main] INFO Cucumber_demo - *********** LAUNCHING BROWSER**********
+2022-08-26 09:57:37,344 [main] INFO Cucumber_demo - *********** OPENING URL**********
+2022-08-26 09:57:39,523 [main] INFO Cucumber_demo - *********** PROVIDING LOGIN DETAILS **********
+2022-08-26 09:57:39,832 [main] INFO Cucumber_demo - *********** STARTED LOGIN**********
+2022-08-26 09:57:47,051 [main] INFO Cucumber_demo - *********** CLICK ON CUSTOMERS MENU**********
+2022-08-26 09:57:50,151 [main] INFO Cucumber_demo - *********** CLICK ON CUSTOMERS MENU ITEM**********
+2022-08-26 09:57:55,062 [main] INFO Cucumber_demo - *********** CLICK ON ADD NEW BUTTON**********
+2022-08-26 09:57:59,587 [main] INFO Cucumber_demo - *********** OPENING CUSTOMERS DETAILS PAGE**********
+2022-08-26 09:57:59,620 [main] INFO Cucumber_demo - *********** ENTERING CUSTOMER DETAILS**********
+2022-08-26 09:58:10,454 [main] INFO Cucumber_demo - *********** CLOSING BROWSER**********
+2022-08-26 09:58:15,333 [main] INFO Cucumber_demo - *********** LAUNCHING BROWSER**********
+2022-08-26 09:58:15,335 [main] INFO Cucumber_demo - *********** OPENING URL**********
+2022-08-26 09:58:17,441 [main] INFO Cucumber_demo - *********** PROVIDING LOGIN DETAILS **********
+2022-08-26 09:58:17,757 [main] INFO Cucumber_demo - *********** STARTED LOGIN**********
+2022-08-26 09:58:24,845 [main] INFO Cucumber_demo - *********** CLICK ON CUSTOMERS MENU**********
+2022-08-26 09:58:27,952 [main] INFO Cucumber_demo - *********** CLICK ON CUSTOMERS MENU ITEM**********
+2022-08-26 09:58:44,261 [main] INFO Cucumber_demo - *********** CLOSING BROWSER**********
+2022-08-26 09:58:49,150 [main] INFO Cucumber_demo - *********** LAUNCHING BROWSER**********
+2022-08-26 09:58:49,152 [main] INFO Cucumber_demo - *********** OPENING URL**********
+2022-08-26 09:58:50,385 [main] INFO Cucumber_demo - *********** PROVIDING LOGIN DETAILS **********
+2022-08-26 09:58:50,675 [main] INFO Cucumber_demo - *********** STARTED LOGIN**********
+2022-08-26 09:58:56,646 [main] INFO Cucumber_demo - *********** CLICK ON CUSTOMERS MENU**********
+2022-08-26 09:58:59,794 [main] INFO Cucumber_demo - *********** CLICK ON CUSTOMERS MENU ITEM**********
+2022-08-26 09:59:12,887 [main] INFO Cucumber_demo - *********** CLOSING BROWSER**********
+2022-08-26 10:30:34,617 [main] INFO Cucumber_demo - *********** LAUNCHING BROWSER**********
+2022-08-26 10:30:34,675 [main] INFO Cucumber_demo - *********** OPENING URL**********
+2022-08-26 10:30:37,004 [main] INFO Cucumber_demo - *********** PROVIDING LOGIN DETAILS **********
+2022-08-26 10:30:37,356 [main] INFO Cucumber_demo - *********** STARTED LOGIN**********
+2022-08-26 10:30:44,841 [main] INFO Cucumber_demo - *********** CLICK ON CUSTOMERS MENU**********
+2022-08-26 10:30:47,985 [main] INFO Cucumber_demo - *********** CLICK ON CUSTOMERS MENU ITEM**********
+2022-08-26 10:30:52,526 [main] INFO Cucumber_demo - *********** CLICK ON ADD NEW BUTTON**********
+2022-08-26 10:30:57,025 [main] INFO Cucumber_demo - *********** OPENING CUSTOMERS DETAILS PAGE**********
+2022-08-26 10:30:57,065 [main] INFO Cucumber_demo - *********** ENTERING CUSTOMER DETAILS**********
+2022-08-26 10:31:08,282 [main] INFO Cucumber_demo - *********** CLOSING BROWSER**********
+2022-08-26 10:31:12,909 [main] INFO Cucumber_demo - *********** LAUNCHING BROWSER**********
+2022-08-26 10:31:12,914 [main] INFO Cucumber_demo - *********** OPENING URL**********
+2022-08-26 10:31:14,202 [main] INFO Cucumber_demo - *********** PROVIDING LOGIN DETAILS **********
+2022-08-26 10:31:14,544 [main] INFO Cucumber_demo - *********** STARTED LOGIN**********
+2022-08-26 10:31:21,777 [main] INFO Cucumber_demo - *********** CLICK ON CUSTOMERS MENU**********
+2022-08-26 10:31:24,866 [main] INFO Cucumber_demo - *********** CLICK ON CUSTOMERS MENU ITEM**********
+2022-08-26 10:31:40,875 [main] INFO Cucumber_demo - *********** CLOSING BROWSER**********
+2022-08-26 10:31:45,413 [main] INFO Cucumber_demo - *********** LAUNCHING BROWSER**********
+2022-08-26 10:31:45,418 [main] INFO Cucumber_demo - *********** OPENING URL**********
+2022-08-26 10:31:47,479 [main] INFO Cucumber_demo - *********** PROVIDING LOGIN DETAILS **********
+2022-08-26 10:31:47,793 [main] INFO Cucumber_demo - *********** STARTED LOGIN**********
+2022-08-26 10:31:54,820 [main] INFO Cucumber_demo - *********** CLICK ON CUSTOMERS MENU**********
+2022-08-26 10:31:57,915 [main] INFO Cucumber_demo - *********** CLICK ON CUSTOMERS MENU ITEM**********
+2022-08-26 10:32:11,081 [main] INFO Cucumber_demo - *********** CLOSING BROWSER**********
+2022-08-30 11:21:16,937 [main] INFO Cucumber_demo - *********** LAUNCHING BROWSER**********
+2022-08-30 11:21:16,975 [main] INFO Cucumber_demo - *********** OPENING URL**********
+2022-08-30 11:21:19,271 [main] INFO Cucumber_demo - *********** PROVIDING LOGIN DETAILS **********
+2022-08-30 11:21:19,452 [main] INFO Cucumber_demo - *********** STARTED LOGIN**********
+2022-08-30 11:21:26,231 [main] INFO Cucumber_demo - *********** CLICK ON CUSTOMERS MENU**********
+2022-08-30 11:21:29,304 [main] INFO Cucumber_demo - *********** CLICK ON CUSTOMERS MENU ITEM**********
+2022-08-30 11:21:34,660 [main] INFO Cucumber_demo - *********** CLICK ON ADD NEW BUTTON**********
+2022-08-30 11:21:41,199 [main] INFO Cucumber_demo - *********** OPENING CUSTOMERS DETAILS PAGE**********
+2022-08-30 11:21:41,221 [main] INFO Cucumber_demo - *********** ENTERING CUSTOMER DETAILS**********
+2022-08-30 11:21:53,740 [main] INFO Cucumber_demo - *********** CLOSING BROWSER**********
+2022-08-30 11:21:58,035 [main] INFO Cucumber_demo - *********** LAUNCHING BROWSER**********
+2022-08-30 11:21:58,041 [main] INFO Cucumber_demo - *********** OPENING URL**********
+2022-08-30 11:22:00,090 [main] INFO Cucumber_demo - *********** PROVIDING LOGIN DETAILS **********
+2022-08-30 11:22:00,270 [main] INFO Cucumber_demo - *********** STARTED LOGIN**********
+2022-08-30 11:22:07,095 [main] INFO Cucumber_demo - *********** CLICK ON CUSTOMERS MENU**********
+2022-08-30 11:22:10,173 [main] INFO Cucumber_demo - *********** CLICK ON CUSTOMERS MENU ITEM**********
+2022-08-30 11:22:28,091 [main] INFO Cucumber_demo - *********** CLOSING BROWSER**********
+2022-08-30 11:22:32,356 [main] INFO Cucumber_demo - *********** LAUNCHING BROWSER**********
+2022-08-30 11:22:32,360 [main] INFO Cucumber_demo - *********** OPENING URL**********
+2022-08-30 11:22:33,399 [main] INFO Cucumber_demo - *********** PROVIDING LOGIN DETAILS **********
+2022-08-30 11:22:33,557 [main] INFO Cucumber_demo - *********** STARTED LOGIN**********
+2022-08-30 11:22:40,369 [main] INFO Cucumber_demo - *********** CLICK ON CUSTOMERS MENU**********
+2022-08-30 11:22:43,458 [main] INFO Cucumber_demo - *********** CLICK ON CUSTOMERS MENU ITEM**********
+2022-08-30 11:22:56,173 [main] INFO Cucumber_demo - *********** CLOSING BROWSER**********
+2022-08-30 14:23:33,867 [main] INFO Cucumber_demo - *********** LAUNCHING BROWSER**********
+2022-08-30 14:23:33,897 [main] INFO Cucumber_demo - *********** OPENING URL**********
+2022-08-30 14:23:35,243 [main] INFO Cucumber_demo - *********** PROVIDING LOGIN DETAILS **********
+2022-08-30 14:23:35,451 [main] INFO Cucumber_demo - *********** STARTED LOGIN**********
+2022-08-30 14:23:42,272 [main] INFO Cucumber_demo - *********** CLICK ON CUSTOMERS MENU**********
+2022-08-30 14:23:45,365 [main] INFO Cucumber_demo - *********** CLICK ON CUSTOMERS MENU ITEM**********
+2022-08-30 14:23:50,761 [main] INFO Cucumber_demo - *********** CLICK ON ADD NEW BUTTON**********
+2022-08-30 14:23:55,840 [main] INFO Cucumber_demo - *********** OPENING CUSTOMERS DETAILS PAGE**********
+2022-08-30 14:23:55,861 [main] INFO Cucumber_demo - *********** ENTERING CUSTOMER DETAILS**********
+2022-09-08 11:55:52,121 [main] INFO Cucumber_demo - *********** LAUNCHING BROWSER**********
+2022-09-08 11:55:52,176 [main] INFO Cucumber_demo - *********** OPENING URL**********
+2022-09-08 11:55:53,269 [main] INFO Cucumber_demo - *********** PROVIDING LOGIN DETAILS **********
+2022-09-08 11:55:53,609 [main] INFO Cucumber_demo - *********** STARTED LOGIN**********
+2022-09-08 11:56:01,877 [main] INFO Cucumber_demo - *********** CLICK ON CUSTOMERS MENU**********
+2022-09-08 11:56:05,000 [main] INFO Cucumber_demo - *********** CLICK ON CUSTOMERS MENU ITEM**********
+2022-09-08 11:56:26,841 [main] INFO Cucumber_demo - ************CLICK ON ADD NEW BUTTON**********
+2022-09-08 11:56:31,727 [main] INFO Cucumber_demo - *********** OPENING CUSTOMERS DETAILS PAGE**********
+2022-09-08 11:56:31,740 [main] INFO Cucumber_demo - *********** ENTERING CUSTOMER DETAILS**********
+2022-09-08 11:56:45,137 [main] INFO Cucumber_demo - *********** CLOSING BROWSER**********
+2022-09-08 11:56:50,011 [main] INFO Cucumber_demo - *********** LAUNCHING BROWSER**********
+2022-09-08 11:56:50,021 [main] INFO Cucumber_demo - *********** OPENING URL**********
+2022-09-08 11:56:52,245 [main] INFO Cucumber_demo - *********** PROVIDING LOGIN DETAILS **********
+2022-09-08 11:56:52,543 [main] INFO Cucumber_demo - *********** STARTED LOGIN**********
+2022-09-08 11:56:59,656 [main] INFO Cucumber_demo - *********** CLICK ON CUSTOMERS MENU**********
+2022-09-08 11:57:02,749 [main] INFO Cucumber_demo - *********** CLICK ON CUSTOMERS MENU ITEM**********
+2022-09-08 11:57:21,099 [main] INFO Cucumber_demo - *********** CLOSING BROWSER**********
+2022-09-08 11:57:25,937 [main] INFO Cucumber_demo - *********** LAUNCHING BROWSER**********
+2022-09-08 11:57:25,946 [main] INFO Cucumber_demo - *********** OPENING URL**********
+2022-09-08 11:57:42,866 [main] INFO Cucumber_demo - *********** PROVIDING LOGIN DETAILS **********
+2022-09-08 11:57:43,186 [main] INFO Cucumber_demo - *********** STARTED LOGIN**********
+2022-09-08 11:57:50,507 [main] INFO Cucumber_demo - *********** CLICK ON CUSTOMERS MENU**********
+2022-09-08 11:57:53,601 [main] INFO Cucumber_demo - *********** CLICK ON CUSTOMERS MENU ITEM**********
+2022-09-08 11:58:08,082 [main] INFO Cucumber_demo - *********** CLOSING BROWSER**********
+2022-09-08 12:17:59,898 [main] INFO Cucumber_demo - *********** LAUNCHING BROWSER**********
+2022-09-08 12:17:59,928 [main] INFO Cucumber_demo - *********** OPENING URL**********
+2022-09-08 12:18:01,939 [main] INFO Cucumber_demo - *********** PROVIDING LOGIN DETAILS **********
+2022-09-08 12:18:02,139 [main] INFO Cucumber_demo - *********** STARTED LOGIN**********
+2022-09-08 12:18:08,995 [main] INFO Cucumber_demo - *********** CLICK ON CUSTOMERS MENU**********
+2022-09-08 12:18:12,076 [main] INFO Cucumber_demo - *********** CLICK ON CUSTOMERS MENU ITEM**********
+2022-09-08 12:18:43,274 [main] INFO Cucumber_demo - ************CLICK ON ADD NEW BUTTON**********
+2022-09-08 12:19:00,714 [main] INFO Cucumber_demo - *********** OPENING CUSTOMERS DETAILS PAGE**********
+2022-09-08 12:19:00,733 [main] INFO Cucumber_demo - *********** ENTERING CUSTOMER DETAILS**********
+2022-09-08 12:19:12,331 [main] INFO Cucumber_demo - *********** CLOSING BROWSER**********
+2022-09-08 12:19:16,579 [main] INFO Cucumber_demo - *********** LAUNCHING BROWSER**********
+2022-09-08 12:19:16,582 [main] INFO Cucumber_demo - *********** OPENING URL**********
+2022-09-08 12:19:17,893 [main] INFO Cucumber_demo - *********** PROVIDING LOGIN DETAILS **********
+2022-09-08 12:19:18,062 [main] INFO Cucumber_demo - *********** STARTED LOGIN**********
+2022-09-08 12:19:24,745 [main] INFO Cucumber_demo - *********** CLICK ON CUSTOMERS MENU**********
+2022-09-08 12:19:27,828 [main] INFO Cucumber_demo - *********** CLICK ON CUSTOMERS MENU ITEM**********
+2022-09-08 12:19:43,470 [main] INFO Cucumber_demo - *********** CLOSING BROWSER**********
+2022-09-08 12:19:47,624 [main] INFO Cucumber_demo - *********** LAUNCHING BROWSER**********
+2022-09-08 12:19:47,632 [main] INFO Cucumber_demo - *********** OPENING URL**********
+2022-09-08 12:19:49,837 [main] INFO Cucumber_demo - *********** PROVIDING LOGIN DETAILS **********
+2022-09-08 12:19:50,000 [main] INFO Cucumber_demo - *********** STARTED LOGIN**********
+2022-09-08 12:19:56,869 [main] INFO Cucumber_demo - *********** CLICK ON CUSTOMERS MENU**********
+2022-09-08 12:19:59,941 [main] INFO Cucumber_demo - *********** CLICK ON CUSTOMERS MENU ITEM**********
+2022-09-08 12:20:29,718 [main] INFO Cucumber_demo - *********** CLOSING BROWSER**********
+2022-09-08 12:28:35,484 [main] INFO Cucumber_demo - *********** LAUNCHING BROWSER**********
+2022-09-08 12:28:35,522 [main] INFO Cucumber_demo - *********** OPENING URL**********
+2022-09-08 12:28:36,847 [main] INFO Cucumber_demo - *********** PROVIDING LOGIN DETAILS **********
+2022-09-08 12:28:37,054 [main] INFO Cucumber_demo - *********** STARTED LOGIN**********
+2022-09-08 12:28:42,780 [main] INFO Cucumber_demo - *********** CLICK ON CUSTOMERS MENU**********
+2022-09-08 12:28:45,858 [main] INFO Cucumber_demo - *********** CLICK ON CUSTOMERS MENU ITEM**********
+2022-09-08 12:28:51,216 [main] INFO Cucumber_demo - ************CLICK ON ADD NEW BUTTON**********
+2022-09-08 12:28:56,112 [main] INFO Cucumber_demo - *********** OPENING CUSTOMERS DETAILS PAGE**********
+2022-09-08 12:28:56,139 [main] INFO Cucumber_demo - *********** ENTERING CUSTOMER DETAILS**********
+2022-09-08 12:29:07,474 [main] INFO Cucumber_demo - *********** CLOSING BROWSER**********
+2022-09-08 12:29:11,907 [main] INFO Cucumber_demo - *********** LAUNCHING BROWSER**********
+2022-09-08 12:29:11,912 [main] INFO Cucumber_demo - *********** OPENING URL**********
+2022-09-08 12:29:13,676 [main] INFO Cucumber_demo - *********** PROVIDING LOGIN DETAILS **********
+2022-09-08 12:29:13,871 [main] INFO Cucumber_demo - *********** STARTED LOGIN**********
+2022-09-08 12:29:21,700 [main] INFO Cucumber_demo - *********** CLICK ON CUSTOMERS MENU**********
+2022-09-08 12:29:24,775 [main] INFO Cucumber_demo - *********** CLICK ON CUSTOMERS MENU ITEM**********
+2022-09-08 12:29:40,503 [main] INFO Cucumber_demo - *********** CLOSING BROWSER**********
+2022-09-08 12:29:44,786 [main] INFO Cucumber_demo - *********** LAUNCHING BROWSER**********
+2022-09-08 12:29:44,796 [main] INFO Cucumber_demo - *********** OPENING URL**********
+2022-09-08 12:29:45,810 [main] INFO Cucumber_demo - *********** PROVIDING LOGIN DETAILS **********
+2022-09-08 12:29:45,990 [main] INFO Cucumber_demo - *********** STARTED LOGIN**********
+2022-09-08 12:29:51,889 [main] INFO Cucumber_demo - *********** CLICK ON CUSTOMERS MENU**********
+2022-09-08 12:29:54,958 [main] INFO Cucumber_demo - *********** CLICK ON CUSTOMERS MENU ITEM**********
+2022-09-08 12:30:07,669 [main] INFO Cucumber_demo - *********** CLOSING BROWSER**********
+2022-09-08 16:39:15,612 [main] INFO Cucumber_demo - *********** LAUNCHING BROWSER**********
+2022-09-08 16:39:15,653 [main] INFO Cucumber_demo - *********** OPENING URL**********
+2022-09-08 16:39:16,558 [main] INFO Cucumber_demo - *********** PROVIDING LOGIN DETAILS **********
+2022-09-08 16:39:16,755 [main] INFO Cucumber_demo - *********** STARTED LOGIN**********
+2022-09-08 16:39:39,220 [main] INFO Cucumber_demo - *********** LOGIN SUCCESSFUL**********
+2022-09-08 16:39:42,237 [main] INFO Cucumber_demo - *********** CLICKING LOGOUT**********
+2022-09-08 16:39:45,074 [main] INFO Cucumber_demo - *********** LOGIN SUCCESSFUL**********
+2022-09-08 16:39:45,082 [main] INFO Cucumber_demo - *********** CLOSING BROWSER**********
+2022-09-08 16:39:49,834 [main] INFO Cucumber_demo - *********** LAUNCHING BROWSER**********
+2022-09-08 16:39:50,997 [main] INFO Cucumber_demo - *********** LAUNCHING BROWSER**********
+2022-09-08 16:41:46,894 [main] INFO Cucumber_demo - *********** LAUNCHING BROWSER**********
+2022-09-08 16:41:46,944 [main] INFO Cucumber_demo - *********** OPENING URL**********
+2022-09-08 16:41:49,108 [main] INFO Cucumber_demo - *********** PROVIDING LOGIN DETAILS **********
+2022-09-08 16:41:49,372 [main] INFO Cucumber_demo - *********** STARTED LOGIN**********
+2022-09-08 16:41:56,336 [main] INFO Cucumber_demo - *********** CLICK ON CUSTOMERS MENU**********
+2022-09-08 16:41:59,421 [main] INFO Cucumber_demo - *********** CLICK ON CUSTOMERS MENU ITEM**********
+2022-09-08 16:42:04,368 [main] INFO Cucumber_demo - ************CLICK ON ADD NEW BUTTON**********
+2022-09-08 16:42:10,132 [main] INFO Cucumber_demo - *********** OPENING CUSTOMERS DETAILS PAGE**********
+2022-09-08 16:42:10,146 [main] INFO Cucumber_demo - *********** ENTERING CUSTOMER DETAILS**********
+2022-09-08 16:42:23,303 [main] INFO Cucumber_demo - *********** CLOSING BROWSER**********
+2022-09-08 16:42:27,811 [main] INFO Cucumber_demo - *********** LAUNCHING BROWSER**********
+2022-09-08 16:42:27,813 [main] INFO Cucumber_demo - *********** OPENING URL**********
+2022-09-08 16:42:30,044 [main] INFO Cucumber_demo - *********** PROVIDING LOGIN DETAILS **********
+2022-09-08 16:42:30,243 [main] INFO Cucumber_demo - *********** STARTED LOGIN**********
+2022-09-08 16:42:37,328 [main] INFO Cucumber_demo - *********** CLICK ON CUSTOMERS MENU**********
+2022-09-08 16:42:40,414 [main] INFO Cucumber_demo - *********** CLICK ON CUSTOMERS MENU ITEM**********
+2022-09-08 16:42:56,679 [main] INFO Cucumber_demo - *********** CLOSING BROWSER**********
+2022-09-08 16:43:01,284 [main] INFO Cucumber_demo - *********** LAUNCHING BROWSER**********
+2022-09-08 16:43:01,288 [main] INFO Cucumber_demo - *********** OPENING URL**********
+2022-09-08 16:43:03,163 [main] INFO Cucumber_demo - *********** PROVIDING LOGIN DETAILS **********
+2022-09-08 16:43:03,382 [main] INFO Cucumber_demo - *********** STARTED LOGIN**********
+2022-09-08 16:43:25,546 [main] INFO Cucumber_demo - *********** CLICK ON CUSTOMERS MENU**********
+2022-09-08 16:43:28,602 [main] INFO Cucumber_demo - *********** CLICK ON CUSTOMERS MENU ITEM**********
+2022-09-08 16:43:41,647 [main] INFO Cucumber_demo - *********** CLOSING BROWSER**********
+2022-09-08 16:45:57,779 [main] INFO Cucumber_demo - *********** LAUNCHING BROWSER**********
+2022-09-08 16:45:57,816 [main] INFO Cucumber_demo - *********** OPENING URL**********
+2022-09-08 16:45:59,941 [main] INFO Cucumber_demo - *********** PROVIDING LOGIN DETAILS **********
+2022-09-08 16:46:00,228 [main] INFO Cucumber_demo - *********** STARTED LOGIN**********
+2022-09-08 16:46:07,350 [main] INFO Cucumber_demo - *********** CLICK ON CUSTOMERS MENU**********
+2022-09-08 16:46:10,447 [main] INFO Cucumber_demo - *********** CLICK ON CUSTOMERS MENU ITEM**********
+2022-09-08 16:46:44,808 [main] INFO Cucumber_demo - ************CLICK ON ADD NEW BUTTON**********
+2022-09-08 16:46:49,770 [main] INFO Cucumber_demo - *********** LAUNCHING BROWSER**********
+2022-09-08 16:46:49,774 [main] INFO Cucumber_demo - *********** OPENING URL**********
+2022-09-08 16:47:10,876 [main] INFO Cucumber_demo - *********** LAUNCHING BROWSER**********
+2022-09-08 16:47:10,939 [main] INFO Cucumber_demo - *********** OPENING URL**********
+2022-09-08 16:47:12,913 [main] INFO Cucumber_demo - *********** PROVIDING LOGIN DETAILS **********
+2022-09-08 16:47:13,356 [main] INFO Cucumber_demo - *********** STARTED LOGIN**********
+2022-09-08 16:47:20,599 [main] INFO Cucumber_demo - *********** CLICK ON CUSTOMERS MENU**********
+2022-09-08 16:47:21,531 [main] INFO Cucumber_demo - *********** PROVIDING LOGIN DETAILS **********
+2022-09-08 16:47:23,222 [main] INFO Cucumber_demo - *********** LAUNCHING BROWSER**********
+2022-09-08 16:47:23,225 [main] INFO Cucumber_demo - *********** OPENING URL**********
+2022-09-08 16:47:23,732 [main] INFO Cucumber_demo - *********** CLICK ON CUSTOMERS MENU ITEM**********
+2022-09-08 16:47:24,343 [main] INFO Cucumber_demo - *********** PROVIDING LOGIN DETAILS **********
+2022-09-08 16:47:24,738 [main] INFO Cucumber_demo - *********** STARTED LOGIN**********
+2022-09-08 16:47:29,441 [main] INFO Cucumber_demo - ************CLICK ON ADD NEW BUTTON**********
+2022-09-08 16:47:30,855 [main] INFO Cucumber_demo - *********** CLICK ON CUSTOMERS MENU**********
+2022-09-08 16:47:34,005 [main] INFO Cucumber_demo - *********** CLICK ON CUSTOMERS MENU ITEM**********
+2022-09-08 16:47:36,482 [main] INFO Cucumber_demo - *********** OPENING CUSTOMERS DETAILS PAGE**********
+2022-09-08 16:47:36,522 [main] INFO Cucumber_demo - *********** ENTERING CUSTOMER DETAILS**********
+2022-09-08 16:47:48,647 [main] INFO Cucumber_demo - *********** CLOSING BROWSER**********
+2022-09-08 16:47:49,411 [main] INFO Cucumber_demo - *********** CLOSING BROWSER**********
+2022-09-08 16:47:53,758 [main] INFO Cucumber_demo - *********** LAUNCHING BROWSER**********
+2022-09-08 16:47:53,761 [main] INFO Cucumber_demo - *********** OPENING URL**********
+2022-09-08 16:47:55,084 [main] INFO Cucumber_demo - *********** PROVIDING LOGIN DETAILS **********
+2022-09-08 16:47:55,379 [main] INFO Cucumber_demo - *********** STARTED LOGIN**********
+2022-09-08 16:48:01,477 [main] INFO Cucumber_demo - *********** CLICK ON CUSTOMERS MENU**********
+2022-09-08 16:48:04,568 [main] INFO Cucumber_demo - *********** CLICK ON CUSTOMERS MENU ITEM**********
+2022-09-08 16:48:20,319 [main] INFO Cucumber_demo - *********** CLOSING BROWSER**********
+2022-09-08 16:48:24,839 [main] INFO Cucumber_demo - *********** LAUNCHING BROWSER**********
+2022-09-08 16:48:24,848 [main] INFO Cucumber_demo - *********** OPENING URL**********
+2022-09-08 16:48:27,044 [main] INFO Cucumber_demo - *********** PROVIDING LOGIN DETAILS **********
+2022-09-08 16:48:27,311 [main] INFO Cucumber_demo - *********** STARTED LOGIN**********
+2022-09-08 16:48:34,463 [main] INFO Cucumber_demo - *********** CLICK ON CUSTOMERS MENU**********
+2022-09-08 16:48:37,558 [main] INFO Cucumber_demo - *********** CLICK ON CUSTOMERS MENU ITEM**********
+2022-09-08 16:48:52,919 [main] INFO Cucumber_demo - *********** CLOSING BROWSER**********
+2022-09-23 12:47:08,023 [main] INFO Cucumber_demo - *********** LAUNCHING BROWSER**********
+2022-09-23 12:47:08,065 [main] INFO Cucumber_demo - *********** OPENING URL**********
+2022-09-23 12:47:10,040 [main] INFO Cucumber_demo - *********** PROVIDING LOGIN DETAILS **********
+2022-09-23 12:47:10,222 [main] INFO Cucumber_demo - *********** STARTED LOGIN**********
+2022-09-23 12:47:32,525 [main] INFO Cucumber_demo - *********** CLICK ON CUSTOMERS MENU**********
+2022-09-23 12:47:35,601 [main] INFO Cucumber_demo - *********** CLICK ON CUSTOMERS MENU ITEM**********
+2022-09-23 12:47:42,256 [main] INFO Cucumber_demo - ************CLICK ON ADD NEW BUTTON**********
+2022-09-23 12:47:47,022 [main] INFO Cucumber_demo - *********** OPENING CUSTOMERS DETAILS PAGE**********
+2022-09-23 12:47:47,043 [main] INFO Cucumber_demo - *********** ENTERING CUSTOMER DETAILS**********
+2022-09-23 12:47:59,937 [main] INFO Cucumber_demo - *********** CLOSING BROWSER**********
+2022-09-23 12:48:04,134 [main] INFO Cucumber_demo - *********** LAUNCHING BROWSER**********
+2022-09-23 12:48:04,137 [main] INFO Cucumber_demo - *********** OPENING URL**********
+2022-09-23 12:48:05,554 [main] INFO Cucumber_demo - *********** PROVIDING LOGIN DETAILS **********
+2022-09-23 12:48:05,707 [main] INFO Cucumber_demo - *********** STARTED LOGIN**********
+2022-09-23 12:48:12,639 [main] INFO Cucumber_demo - *********** CLICK ON CUSTOMERS MENU**********
+2022-09-23 12:48:15,714 [main] INFO Cucumber_demo - *********** CLICK ON CUSTOMERS MENU ITEM**********
+2022-09-23 12:48:33,584 [main] INFO Cucumber_demo - *********** CLOSING BROWSER**********
+2022-09-23 12:48:37,888 [main] INFO Cucumber_demo - *********** LAUNCHING BROWSER**********
+2022-09-23 12:48:37,892 [main] INFO Cucumber_demo - *********** OPENING URL**********
+2022-09-23 12:48:55,556 [main] INFO Cucumber_demo - *********** PROVIDING LOGIN DETAILS **********
+2022-09-23 12:48:55,758 [main] INFO Cucumber_demo - *********** STARTED LOGIN**********
+2022-09-23 12:49:03,173 [main] INFO Cucumber_demo - *********** CLICK ON CUSTOMERS MENU**********
+2022-09-23 12:49:06,246 [main] INFO Cucumber_demo - *********** CLICK ON CUSTOMERS MENU ITEM**********
+2022-09-23 12:49:19,049 [main] INFO Cucumber_demo - *********** CLOSING BROWSER**********
+2022-10-06 18:48:17,999 [main] INFO Cucumber_demo - *********** LAUNCHING BROWSER**********
+2022-10-06 18:48:18,038 [main] INFO Cucumber_demo - *********** OPENING URL**********
+2022-10-06 18:48:19,141 [main] INFO Cucumber_demo - *********** PROVIDING LOGIN DETAILS **********
+2022-10-06 18:48:19,437 [main] INFO Cucumber_demo - *********** STARTED LOGIN**********
+2022-10-06 18:48:25,320 [main] INFO Cucumber_demo - *********** LOGIN SUCCESSFUL**********
+2022-10-06 18:48:28,343 [main] INFO Cucumber_demo - *********** CLICKING LOGOUT**********
+2022-10-06 18:48:30,123 [main] INFO Cucumber_demo - *********** LOGIN SUCCESSFUL**********
+2022-10-06 18:48:30,135 [main] INFO Cucumber_demo - *********** CLOSING BROWSER**********
+2022-10-06 18:48:34,723 [main] INFO Cucumber_demo - *********** LAUNCHING BROWSER**********
+2022-10-06 18:48:35,827 [main] INFO Cucumber_demo - *********** LAUNCHING BROWSER**********
+2022-10-06 18:50:35,152 [main] INFO Cucumber_demo - *********** LAUNCHING BROWSER**********
+2022-10-06 18:50:35,195 [main] INFO Cucumber_demo - *********** OPENING URL**********
+2022-10-06 18:50:37,046 [main] INFO Cucumber_demo - *********** PROVIDING LOGIN DETAILS **********
+2022-10-06 18:50:37,289 [main] INFO Cucumber_demo - *********** STARTED LOGIN**********
+2022-10-06 18:50:44,203 [main] INFO Cucumber_demo - *********** LOGIN SUCCESSFUL**********
+2022-10-06 18:50:47,217 [main] INFO Cucumber_demo - *********** CLICKING LOGOUT**********
+2022-10-06 18:50:48,853 [main] INFO Cucumber_demo - *********** LOGIN SUCCESSFUL**********
+2022-10-06 18:50:48,865 [main] INFO Cucumber_demo - *********** CLOSING BROWSER**********
+2022-10-06 18:50:53,334 [main] INFO Cucumber_demo - *********** LAUNCHING BROWSER**********
+2022-10-06 18:50:53,335 [main] INFO Cucumber_demo - *********** OPENING URL**********
+2022-10-06 18:50:54,604 [main] INFO Cucumber_demo - *********** PROVIDING LOGIN DETAILS **********
+2022-10-06 18:50:54,808 [main] INFO Cucumber_demo - *********** STARTED LOGIN**********
+2022-10-06 18:51:00,729 [main] INFO Cucumber_demo - *********** LOGIN SUCCESSFUL**********
+2022-10-06 18:51:03,739 [main] INFO Cucumber_demo - *********** CLICKING LOGOUT**********
+2022-10-06 18:51:06,515 [main] INFO Cucumber_demo - *********** LOGIN SUCCESSFUL**********
+2022-10-06 18:51:06,519 [main] INFO Cucumber_demo - *********** CLOSING BROWSER**********
+2022-10-06 18:51:10,831 [main] INFO Cucumber_demo - *********** LAUNCHING BROWSER**********
+2022-10-06 18:51:10,835 [main] INFO Cucumber_demo - *********** OPENING URL**********
+2022-10-06 18:51:12,907 [main] INFO Cucumber_demo - *********** PROVIDING LOGIN DETAILS **********
+2022-10-06 18:51:13,101 [main] INFO Cucumber_demo - *********** STARTED LOGIN**********
